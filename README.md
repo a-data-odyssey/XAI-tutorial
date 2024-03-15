@@ -1,5 +1,5 @@
 # XAI-tutorial
-A course on explainable AI with Python. You can access the course here [coming soon].
+A course on explainable AI with Python. You can access the course [here](https://adataodyssey.com/courses/xai-with-python/).
 
 ### File Structure and Descriptions
 The resources in the `src` folder are as follows:
